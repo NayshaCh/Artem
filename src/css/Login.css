@@ -1,0 +1,39 @@
+#backgroundLogin{
+    height: 579px;
+    width: 100%;
+    background-image: url(https://cdn.hipwallpaper.com/i/15/72/wgMLUS.jpg);
+  
+  }
+  
+   
+  .logoLogin{
+    width: 150px;
+    height: 150px;
+    margin-top: 25px;
+  }
+  
+  .loginForm{
+    background-color: rgba(255,255,255,0.7);
+    border-radius: 5px;
+  }
+  
+  
+  
+.labelLogin{
+    font-weight: bold;
+  }
+
+  
+
+  .spaceLogin{
+    height: 65px;
+  }
+  .font-small{
+    font-size: 18px;
+  }
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="font-small"] {
+      font-size: 13px;
+    }
+  }

@@ -1,0 +1,40 @@
+#logo{
+    height: 70px;
+    width: 70px;
+}
+
+.navbarButtoon{
+    margin-left: 5px;
+}
+
+#navbarBrand{
+    font-size: 40px;
+    margin-right: 50px;
+}
+
+.navBarButton{
+    margin-left: 7px;
+}
+
+#topNavBar{
+
+  background-color: #6ACECE;
+}
+
+.navBarContainer{
+    padding: 0px;
+    margin: 0px;
+}
+
+#hspaceTopBar{
+    width: 1050px;
+}
+#hspaceTopBarDoctorScreen{
+    width: 740px;
+}
+#hspaceTopBarPatientScreen{
+    width: 700px;
+}
+#hspaceBetweenButtons{
+    width: 10px;
+}

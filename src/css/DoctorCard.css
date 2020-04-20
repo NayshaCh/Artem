@@ -1,0 +1,15 @@
+.marginTop15{
+    height: 15px;
+    width: 10px;
+    
+}
+
+.cardItself{
+    border-radius: 2% 2% 2% 2% / 5% 5% 5% 5%;
+    margin: 10px;
+    background-color: #F0F8FF;
+}
+
+.display-none{
+    display: none;
+}

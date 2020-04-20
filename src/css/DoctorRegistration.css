@@ -1,0 +1,16 @@
+#doctorProfilePic{
+    height: 150px;
+    width: 150px;
+}
+
+.formDoctor{
+    background-color: rgba(255, 255, 255, 0.95);
+}
+
+#firstSignDoctor{
+    font-size: xx-large;
+}
+#secondSignDoctor{
+    font-size: large;
+}
+

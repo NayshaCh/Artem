@@ -1,0 +1,29 @@
+#patientProfilePicture{
+    width: 150px;
+    height: 150px;
+}
+
+#formPatient{
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+#firstSignPatient{
+    font-size: xx-large;
+}
+#secondSignPatient{
+    font-size: large;
+}
+
+.spaceRegister{
+    height: 15px;
+}
+
+.spaceRegister2{
+    height: 45px;
+}
+
+#ld{
+    width: 115px;
+    height: 10px;
+}
+

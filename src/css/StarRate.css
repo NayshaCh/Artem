@@ -1,0 +1,43 @@
+.StarRate {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .StarRate-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .StarRate-logo {
+      animation: StarRate-logo-spin infinite 20s linear;
+    }
+  }
+  
+
+  .star-rating-filled {
+    fill: gold;
+  }
+  
+  .star-rating-blank {
+    fill: #d8d8d8;
+  }
+  
+  
+  
+  .flex-container {
+    display: flex;
+  }
+  
+  @keyframes StarRate-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+  
+    to {
+      transform: rotate(360deg);
+    }
+  }
